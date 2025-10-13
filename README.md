@@ -52,10 +52,30 @@ $ python hello.py
 A variable is a name that holds a value.
 
 ```
-x = 5
-y = -10
+>>> x = 5
+>>> y = -10
+>>> x * y
 
-print(x * y)
+```
+
+## Operations
+
+```
+>>> a = 10
+>>> b = 3
+
+>>> a + b
+>>> a - b
+>>> a * b
+>>> a / b
+>>> a // b
+>>> a ** b
+
+```
+## I/O
+```
+>>> name = input("What is your name? ")
+>>> print("Hello,", name, "!")
 
 ```
 
