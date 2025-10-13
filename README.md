@@ -15,10 +15,10 @@ sourceCode --> compiler --> output
 
 We will use the GNU/Linux terminal to execute our python's programs.
 
-1. Open de text editor and write:
+1. Open the text editor, write the code and save it as **hello.py**:
 
 ```
-print("Hello world!)
+print("Hello world!")
 ```
 
 
