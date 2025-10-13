@@ -127,9 +127,10 @@ Instead of repeating code many times, you define a function once, and
 then you call it whenever you need it.
 
 you give it inputs, it processes them, and gives you an output.
-
+```
 ------     ---------     --------
 input ---> function  ---> result
 -----      --------      --------
+```
 
 
