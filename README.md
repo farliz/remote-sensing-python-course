@@ -81,5 +81,11 @@ A variable is a name that holds a value.
 
 ```
 
+## First program
 
+```
+print("It is my first python program!")
+name = input('Type your name:\n')
+print('Hello', name, '!')
+```
 
