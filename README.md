@@ -20,7 +20,10 @@ We will use the GNU/Linux terminal to execute our python's programs.
 ```
 print("Hello world!")
 ```
-
+2. Execute the script:
+```
+$ python hello.py
+```
 
 
 # Basic exerxices 
