@@ -108,3 +108,14 @@ assert     del        global     not        with
 async      elif       if         or         yield
 
 ```
+## Indentation
+
+Indentation means adding spaces (or tabs) at the beginning of a line
+of code to show structure — which lines belong together.
+
+```
+if age >= 18:
+    print("You are an adult")
+
+```
+**The key is the :**
