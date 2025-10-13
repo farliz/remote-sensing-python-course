@@ -56,9 +56,16 @@ A variable is a name that holds a value.
 >>> y = -10
 >>> x * y
 ...
->>> name = 'lizardo'
+>>> first_name = 'lizardo'
 
 ```
+Python has an official style guide called PEP 8.
+According to it, variable names should:
+
+- Use lowercase letters
+- Use underscores to separate words
+- Be descriptive but short
+
 
 ## Operations
 
@@ -89,3 +96,15 @@ name = input('Type your name:\n')
 print('Hello', name, '!')
 ```
 
+## Keywords
+
+```
+False      await      else       import     pass
+None       break      except     in         raise
+True       class      finally    is         return
+and        continue   for        lambda     try
+as         def        from       nonlocal   while
+assert     del        global     not        with
+async      elif       if         or         yield
+
+```
