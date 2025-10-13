@@ -17,6 +17,7 @@ We will use the GNU/Linux terminal to execute our python's programs.
 
 Let's to call the python termnal
 
+## Interactive
 ```
 $ python
 Python 3.10.13 | packaged by conda-forge | (main, Dec 23 2023, 15:36:39) [GCC 12.3.0] on linux
@@ -25,6 +26,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ```
 
+## by scripts
 1. Open the text editor, write the code and save it as **hello.py**:
 
 ```
