@@ -118,4 +118,4 @@ if age >= 18:
     print("You are an adult")
 
 ```
-**The key is the :**
+**The key is the ":"**   dos puntos.
