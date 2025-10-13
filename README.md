@@ -119,3 +119,17 @@ if age >= 18:
 
 ```
 **The key is the ":"**   dos puntos.
+
+## Function
+
+A function is a reusable block of code that performs a specific task.
+Instead of repeating code many times, you define a function once, and
+then you call it whenever you need it.
+
+you give it inputs, it processes them, and gives you an output.
+
+------     ---------     --------
+input ---> function  ---> result
+-----      --------      --------
+
+
