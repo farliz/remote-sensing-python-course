@@ -1,6 +1,6 @@
 # remote-sensing-python-course
 
-# Intro
+# Introduction
 Python is a programming language used to tell computers what to do.\\
 It’s known for being easy to read, powerful, and used in many areas:
 
@@ -133,4 +133,12 @@ input ---> function  ---> result
 -----      --------      --------
 ```
 
+
+## dataset
+
+We will use the USGS High Resolution Spectral Library to explore the
+spectral feature of different materials. Data can be downloaded int he
+following link:
+
+[https://www.usgs.gov/centers/gggsc/science/usgs-high-resolution-spectral-library](https://www.usgs.gov/centers/gggsc/science/usgs-high-resolution-spectral-library)
 
